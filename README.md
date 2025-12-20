@@ -37,8 +37,7 @@ The system is mission-critical and requires high accuracy, data integrity, and p
 
 ## Test Artifacts
 - 📋 [Manual Test Cases & Scenarios](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-- 🐞 [Bug Reports – Jira Style](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-- 📘 [Test Plan (High-Level)](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
+- 🐞 [Bug Reports – Jira Style]([https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link](https://drive.google.com/file/d/1mSridHYOo0GmmkCdbp7iWQWhTHFzae3Q/view?usp=sharing))
 - 🤖 Sample Automation Scripts (Python/Selenium) [Link to Scripts](https://github.com/YOUR_GITHUB_REPO/ttvma-automation)
 
 ## Sample Defects Identified
