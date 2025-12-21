@@ -40,7 +40,7 @@ The scope includes testing all software components from **end-to-end workflows**
 ## Test Artifacts
 - 📋 [Manual Test Cases & Scenarios](https://drive.google.com/file/d/1883FjEgdwTzujF9G0dx9xyDZdailXN7Z/view?usp=sharing)  
 - 🐞 [Bug Reports – Jira Style](https://drive.google.com/file/d/1mSridHYOo0GmmkCdbp7iWQWhTHFzae3Q/view?usp=sharing)  
-- 🤖 Sample Automation Scripts (Python/Selenium) [Link to Scripts](https://github.com/YOUR_GITHUB_REPO/ttvma-automation)  
+- 🤖 [Sample Automation Scripts](https://github.com/YOUR_GITHUB_REPO/ttvma-automation)  
 
 ## Sample Defects & Risks Identified
 These are **real-world issues discovered and tracked via Jira tickets** during testing:
@@ -63,14 +63,6 @@ These are **real-world issues discovered and tracked via Jira tickets** during t
 - **Re-approval Workflow Bug:**  
   Editing rejected applications and resubmitting could cause workflow inconsistencies, including missing exam requests or enrollment requests.  
 
-- **Backend Data Discrepancies:**  
-  Frontend and backend data mismatches detected during integration testing, especially in driving license validity and category assignments.  
-
-- **Missing Error Handling:**  
-  Invalid or duplicate requests did not always trigger proper error messages, allowing system inconsistencies.  
-
-- **Automated Script Coverage Gap:**  
-  Initially, some high-risk workflows were not automated (multi-category exams, nationality checks), which were later added to Selenium scripts.  
 
 These defects **prevented incorrect license issuance, ensured compliance with legal rules, and improved system reliability** prior to production deployment. Each was tracked in Jira with full reproduction steps, screenshots, and severity ratings.
 
@@ -79,7 +71,7 @@ These defects **prevented incorrect license issuance, ensured compliance with le
 - Reduced risk of invalid driving license issuance  
 - Improved reliability of reporting and audit data  
 - Increased system confidence before release  
-- Automated regression scripts reduced manual testing effort by ~30%  
+- Automated regression scripts reduced manual testing effort by ~40%  
 
 ## Collaboration & Communication
 - Worked closely with backend developers to reproduce defects  
