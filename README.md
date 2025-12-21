@@ -40,7 +40,7 @@ The scope includes testing all software components from **end-to-end workflows**
 ## Test Artifacts
 - 📋 [Manual Test Cases & Scenarios](https://drive.google.com/file/d/1883FjEgdwTzujF9G0dx9xyDZdailXN7Z/view?usp=sharing)  
 - 🐞 [Bug Reports – Jira Style](https://drive.google.com/file/d/1mSridHYOo0GmmkCdbp7iWQWhTHFzae3Q/view?usp=sharing)  
-- 🤖 [Sample Automation Scripts](https://github.com/ali-mzayhem/QA-Portfolio/blob/main/NewDL.py)  
+- 🤖 [Sample Automation Scripts](https://github.com/ali-mzayhem/QA-Portfolio/blob/main/AutomationScript.py)  
 
 ## Sample Defects & Risks Identified
 These are **real-world issues discovered and tracked via Jira tickets** during testing:
